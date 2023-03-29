@@ -1,0 +1,12 @@
+.gallery-main-info{
+    margin-left: 160px;
+}
+.gallery-info{
+    display: flex;
+    flex-wrap: wrap;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-auto-rows: 280px;
+    gap: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

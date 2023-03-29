@@ -1,0 +1,11 @@
+.profile{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: aquamarine;
+}
+.profile img{
+    width: 90px;
+    height: 90px;
+    border-radius: 50px;
+}
